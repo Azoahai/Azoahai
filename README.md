@@ -1,9 +1,7 @@
 
 - 👋 Hi, I’m @Azoahai
 - 👀 I’m tired ... Because
-- 🌱 I’m smok marijuana...
-- 💞️ I’m idiot ...
-- 📫 shut up idiot me... And fuck me
+- 🌱 I’m smok marijuanae
 
 <!---
 Azoahai/Azoahai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
